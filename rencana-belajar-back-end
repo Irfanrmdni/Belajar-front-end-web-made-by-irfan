@@ -1,0 +1,84 @@
+Ini adalah rencana untuk back end web developer made by irfan
+1. operating system dan general knowledge / sistem operasi
+- Memory management
+- interprocess communication
+- I/O Management
+- POSIX Basic
+- Basic networking concepts
+- Terminal usage
+- bagaimana sistem operasi bekerja secara umum
+- proses management
+- threads and concurrency
+
+2. Bahasa Pemrograman
+- Javascript : Node.js
+- PHP : Laravel
+
+3. Database relasi
+1. SQL
+- postgreSQL
+- MysSQL
+- MariaDB
+2. NO SQL
+- MongoDB
+More about database : ORMs, ACID, Transactions, N+1Problem
+
+4. Belajar APIs
+- Rest API
+- JSON Apis
+- Authentication : OAuth, Basic Authentication, Token Authentication, JWT
+
+5. Chaching
+- Client side : redis
+- CDN         : redis
+- Server side : redis
+
+6. Web security
+- HTTPS
+- Content security policy
+- SSL/TLS
+- CORS
+- MD5 
+- SHA Family
+- scrypt, bcrypt
+- algoritma hosting
+
+7. Testing
+- integration testing
+- unit testing
+- functional testing
+
+8. CI/CD 
+design and development principles
+1.
+- SOLID
+- KISS
+- YAGNI
+- DRY
+2. Arsitektur pattern
+- Monolithic Apps
+- Microservices
+- SOA
+
+9. Search Engine
+- elasticsearch
+
+10. Message brokers
+- RobbitMQ
+
+11. container vs virtualization
+- docker
+
+12. graphQL
+- Apollo
+
+13. Graph database
+- Neo4j
+
+14. web socket
+- web server : nginx, apache
+
+15. building for scale
+- Migration strategis
+- horizontal vs vertical scaling
+- understand the diff
