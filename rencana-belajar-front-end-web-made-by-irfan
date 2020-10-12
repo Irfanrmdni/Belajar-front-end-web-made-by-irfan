@@ -1,0 +1,35 @@
+Assalamualaikum wr. wb
+ini adalah rencana saya untuk kedepanya dalam belajar front end web developer
+1. internet
+- bagaimana internet bekerja
+- apa itu domain
+- apa itu hosting
+- apa itu DNS (Domain name system) dan bagaimana DNS  bekerja
+- apa itu HTTP/SSL/HTTPS
+
+2. Basic front end web developer
+1.belajar HTML5
+- belajar dasar-dasar HTML5
+- apa itu accessbility
+- belajar SEO (Search Engine Optimization) basic
+- belajar semantic / tag / attribut HTML5
+- belajar form validasi HTML5
+2. belajar CSS
+- belajar basic HTML5
+- belajar membuat layout : Float, Positioning, Display, Box model, CSS grid, flex box
+- belajar responsive design dan media queries 
+- belajar CSS Arstitektur : BEM
+- belajar CSS preprocessor : SASS, postCSS
+- belajar modern CSS : styled component, CSS module, emotion, styled JSX
+- belajar CSS Framework : Reactstrap, material UI, tailwind CSS, Bootstrap
+3. belajar javascript
+- belajar basic javascript
+- belajar syntax dan basic construct
+- belajar DOM Manipulation
+- belajar fetch API / AJAX
+- belajar es6+ modul javascript
+- belajar event bubbling, scope, prototype, shadow DOM
+- Framework javascript : reactjs, vuejs
+4. Web Security
+- package managers : npm, yarn
+- HTTPS, CORS, Content security policy
