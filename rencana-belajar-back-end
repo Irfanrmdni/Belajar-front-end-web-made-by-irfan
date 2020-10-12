@@ -77,5 +77,8 @@ design and development principles
 
 14. web socket
 - web server : nginx, apache
-- 
 
+15. building for scale
+- Migration strategis
+- horizontal vs vertical scaling
+- understand the diff
